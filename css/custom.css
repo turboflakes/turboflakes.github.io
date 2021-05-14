@@ -1,9 +1,0 @@
-.center {
-  font-family: 'Cutive Mono', Courier, monospace;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  min-height: 100vh;
-}
