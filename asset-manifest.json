@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.1359096b.chunk.css",
-    "main.js": "/static/js/main.df6267ea.chunk.js",
+    "main.js": "/static/js/main.c5e288c4.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.01aa40ea.js",
-    "static/js/2.b236bbd6.chunk.js": "/static/js/2.b236bbd6.chunk.js",
+    "static/js/2.f14af7a5.chunk.js": "/static/js/2.f14af7a5.chunk.js",
     "static/js/3.c66a8d00.chunk.js": "/static/js/3.c66a8d00.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.b236bbd6.chunk.js.LICENSE.txt": "/static/js/2.b236bbd6.chunk.js.LICENSE.txt",
+    "static/js/2.f14af7a5.chunk.js.LICENSE.txt": "/static/js/2.f14af7a5.chunk.js.LICENSE.txt",
     "static/media/github.39b6d23f.svg": "/static/media/github.39b6d23f.svg",
     "static/media/kusama_icon.3b682a65.svg": "/static/media/kusama_icon.3b682a65.svg",
     "static/media/turboflakes_default.33ac9e44.svg": "/static/media/turboflakes_default.33ac9e44.svg",
@@ -14,8 +14,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.01aa40ea.js",
-    "static/js/2.b236bbd6.chunk.js",
+    "static/js/2.f14af7a5.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.df6267ea.chunk.js"
+    "static/js/main.c5e288c4.chunk.js"
   ]
 }
