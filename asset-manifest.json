@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.1359096b.chunk.css",
-    "main.js": "/static/js/main.8e1a0481.chunk.js",
+    "main.js": "/static/js/main.0d7b5beb.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.8954acd9.js",
-    "static/js/2.0ce8c0b0.chunk.js": "/static/js/2.0ce8c0b0.chunk.js",
+    "static/js/2.a3750ea6.chunk.js": "/static/js/2.a3750ea6.chunk.js",
     "static/js/3.6111830a.chunk.js": "/static/js/3.6111830a.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.0ce8c0b0.chunk.js.LICENSE.txt": "/static/js/2.0ce8c0b0.chunk.js.LICENSE.txt",
+    "static/js/2.a3750ea6.chunk.js.LICENSE.txt": "/static/js/2.a3750ea6.chunk.js.LICENSE.txt",
     "static/media/github.39b6d23f.svg": "/static/media/github.39b6d23f.svg",
     "static/media/kusama_icon.8d767b9a.svg": "/static/media/kusama_icon.8d767b9a.svg",
     "static/media/polkadot_js_logo.7d2701e2.svg": "/static/media/polkadot_js_logo.7d2701e2.svg",
@@ -15,8 +15,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8954acd9.js",
-    "static/js/2.0ce8c0b0.chunk.js",
+    "static/js/2.a3750ea6.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.8e1a0481.chunk.js"
+    "static/js/main.0d7b5beb.chunk.js"
   ]
 }
