@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.1359096b.chunk.css",
-    "main.js": "/static/js/main.d42f7e9a.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.8954acd9.js",
-    "static/js/2.7a1d0444.chunk.js": "/static/js/2.7a1d0444.chunk.js",
-    "static/js/3.6111830a.chunk.js": "/static/js/3.6111830a.chunk.js",
+    "main.js": "/static/js/main.850062ec.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.26f069ba.js",
+    "static/js/2.8e3d8fad.chunk.js": "/static/js/2.8e3d8fad.chunk.js",
+    "static/js/3.e55e9055.chunk.js": "/static/js/3.e55e9055.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.7a1d0444.chunk.js.LICENSE.txt": "/static/js/2.7a1d0444.chunk.js.LICENSE.txt",
+    "static/js/2.8e3d8fad.chunk.js.LICENSE.txt": "/static/js/2.8e3d8fad.chunk.js.LICENSE.txt",
     "static/media/github.39b6d23f.svg": "/static/media/github.39b6d23f.svg",
     "static/media/kusama_icon.8d767b9a.svg": "/static/media/kusama_icon.8d767b9a.svg",
     "static/media/kusama_logo.732eafd7.svg": "/static/media/kusama_logo.732eafd7.svg",
@@ -17,9 +17,9 @@
     "static/media/twitter.63084a6f.svg": "/static/media/twitter.63084a6f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8954acd9.js",
-    "static/js/2.7a1d0444.chunk.js",
+    "static/js/runtime-main.26f069ba.js",
+    "static/js/2.8e3d8fad.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.d42f7e9a.chunk.js"
+    "static/js/main.850062ec.chunk.js"
   ]
 }
